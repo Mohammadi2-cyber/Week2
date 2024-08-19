@@ -44,6 +44,10 @@ public class Day3practice {
         System.out.println( commanderStudents[1].length());
 
 
+        // print there codes
+        
+
+
 
 
 
